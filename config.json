@@ -1,0 +1,13 @@
+{
+    "token": "당신의 토큰을 입력하시오",
+    "prefix": "!",
+    "autoLogin": true,
+    "owners": ["당신의 디스코드 식별번호를 입력하시오"],
+
+    "urls": {
+        "events": "[__dirname]\\events|T",
+        "commands": "[__dirname]\\commands|T",
+        "classes": "[__dirname]\\classes|F",
+        "plugins": "[__dirname]\\plugins|F"
+    }
+}
